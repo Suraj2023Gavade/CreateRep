@@ -16,9 +16,9 @@ public class Swap {
 	    
 	    // Write your code
 
-	    System.out.println("Value of i ="+i);
+	    System.out.println("Value of i = " +i);
 
-	    System.out.println("Value of j ="+j);
+	    System.out.println("Value of j = " +j);
 
 	    // Expected Result , i = 7  and j = 10
 	}
